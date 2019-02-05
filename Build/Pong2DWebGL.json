@@ -1,0 +1,13 @@
+{
+"companyName": "Oluris",
+"productName": "Curso de Desarrollo 2D en unity",
+"dataUrl": "Pong2DWebGL.data.unityweb",
+"wasmCodeUrl": "Pong2DWebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "Pong2DWebGL.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
